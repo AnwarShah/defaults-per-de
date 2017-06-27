@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=mimechange-watcher
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Mime change watcher
+Name=Mime change watcher
+Comment[en_US]=Starts mimechange watcher to save changes separately
+Comment=Starts mimechange watcher to save changes separately
