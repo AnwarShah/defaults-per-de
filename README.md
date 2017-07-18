@@ -4,7 +4,7 @@ An approach to maintain cleaner defaults per Linux desktop environment
 ## Installation (Tested in Ubuntu only)
 Download the deb file from release page and install using this command
 
-    sudo apt install ./defaults-per-de_1.0.3_all.deb
+    sudo apt install ./defaults-per-de_1.1.0_all.deb
     
 `apt` would automatically download and install the dependency.
 
