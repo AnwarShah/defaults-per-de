@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DE_SPECIFIC_FILE="$HOME/.config/mimeapps-$XDG_SESSION_DESKTOP.list"
+DE_SPECIFIC_FILE="$HOME/.config/mimeapps-$XDG_CURRENT_DESKTOP.list"
 
 if [ -f $DE_SPECIFIC_FILE ]; then
 	cp $DE_SPECIFIC_FILE ~/.config/mimeapps.list
