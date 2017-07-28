@@ -4,4 +4,4 @@
 killall -q mimechange-watcher || true
 
 # Restore the mime for current DE
-mime-restore.sh
+/usr/local/bin/mime-restore
