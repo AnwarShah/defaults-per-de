@@ -1,5 +1,5 @@
 Package: defaults-per-de
-Version: 1.1.0
+Version: 1.1.1
 Installed-size: 60
 Maintainer: Mohammad Anwar Shah <anwarcsecu@gmail.com>
 Depends: inotify-tools

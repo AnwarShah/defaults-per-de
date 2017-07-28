@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=mimechange-watcher
+Exec=/usr/local/bin/mimechange-watcher
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
