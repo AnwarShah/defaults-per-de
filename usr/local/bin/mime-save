@@ -1,8 +1,0 @@
-#!/bin/bash
-
-DE_SPECIFIC_MIME_FILE="$HOME/.config/mimeapps-$XDG_CURRENT_DESKTOP.list"
-MIME_FILE="$HOME/.config/mimeapps.list"
-
-if [ -f $MIME_FILE ]; then
-    cp $MIME_FILE $DE_SPECIFIC_MIME_FILE
-fi

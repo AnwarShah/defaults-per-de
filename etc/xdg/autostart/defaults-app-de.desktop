@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec="/usr/local/bin/default-app-de.sh"
+Name=Default apps for DE
+X-GNOME-Autostart-enabled=true
+Comment=Set default app suitable for different Desktop Environment
+
