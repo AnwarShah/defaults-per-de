@@ -1,9 +1,0 @@
-Package: defaults-per-de
-Version: 1.1.2
-Installed-size: 60
-Maintainer: Mohammad Anwar Shah <anwarcsecu@gmail.com>
-Depends: inotify-tools
-Architecture: all
-Description: separate default applications per desktop environment
- separate default applications per desktop environment
-

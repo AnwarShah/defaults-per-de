@@ -2,13 +2,9 @@
 An approach to maintain cleaner defaults per Linux desktop environment
 
 ## Installation (Tested in Ubuntu only)
-Download the deb file from release page and install using this command
+Move the files in etc/* to /etc/, usr/local/bin/* to /usr/local/bin
 
-    sudo apt install ./defaults-per-de_1.1.0_all.deb
-    
-`apt` would automatically download and install the dependency.
-
-If you prefer to use `dpkg` install `inotify-tools` package yourself
+and mimeapps/* to $HOME/.config/
 
 ## Notes
-Do not disable the autostart entry for `mimechange-watcher`
+Do not disable the autostart entry
